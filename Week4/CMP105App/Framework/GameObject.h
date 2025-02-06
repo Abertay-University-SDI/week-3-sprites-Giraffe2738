@@ -52,3 +52,4 @@ protected:
 	Input* input;
 	sf::RenderWindow* window;
 };
+
